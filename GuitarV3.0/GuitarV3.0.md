@@ -13,6 +13,7 @@
 ### 删除执行mysql
 ![删除执行](http://group.store.qq.com/qun/V14GvXzx3Xevz8/V3tw5lZCb47VldIMV4A/800?w5=1024&h5=640&rf=viewer_421)
 ### 工厂代码
+#### 工厂用来处理DAO的整体切换，注释中另外提供了可以在工厂中同时实现接口和DAO切换的代码。只需更改关键字即可调用
 ![工厂代码](http://group.store.qq.com/qun/V14GvXzx3Xevz8/V3tw5lZCbg7VlegHpUG/800?w5=1024&h5=640&rf=viewer_421)
 ### 前端js代码片段
 #### 使用jQuery EasyUI实现前端
