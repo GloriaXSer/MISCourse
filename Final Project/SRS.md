@@ -1,7 +1,12 @@
 #### 学生登录
 1. 登录界面
 ![登录界面](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCcrHd1ej6SY7/800?w5=1255&h5=640&rf=viewer_421)
+2. 登录代码分析
+![登录代码分析](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCZTJd1fKvGMu/800?w5=1368&h5=640&rf=viewer_421)
 #### 课程查询并选课（模型实现选课逻辑）
+1. 课程选课测试代码
+![课程选课测试](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCZTJd1fKvGMu/800?w5=1368&h5=640&rf=viewer_421)
+
 #### 课程增删查改
 #### 教师增删查改
 #### 学生成绩查询
