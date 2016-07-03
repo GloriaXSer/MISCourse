@@ -73,3 +73,7 @@
 ![成绩查询](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCczHd1foD6Mj/800?w5=742&h5=371&rf=viewer_421)
 #### 选课
 ![选课](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCa7Hd1dAeyou/800?w5=1034&h5=595&rf=viewer_421)
+### 相关说明
+##### 数据库的切换详见GuitarV3.0，不再多做分析。
+##### 在选课过程中，由于课程读取和写入选课结果一起进行，导致sqlite不断出现database is locked的情况。目前没有有效的处理方案，只有等到服务器自己反应过来再继续执行。
+##### 在对各个对象进行初始化时，双向关系的引用造成了不少麻烦。不断地拼接，dao中调用dao，但十分容易产生死循环的结果。在测试类中测试了很久，才排查出来。目前觉得有效的办法1.在调用数据时就将表和表相连 2.用SSH框架
