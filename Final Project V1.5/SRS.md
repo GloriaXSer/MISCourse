@@ -9,7 +9,7 @@
 ![登录代码分析](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCZTJd1fKvGMu/800?w5=1368&h5=640&rf=viewer_421)
 ### 课程查询并选课（模型实现选课逻辑）
 #### 课程选课测试代码
-![课程选课测试](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCZTJd1fKvGMu/800?w5=1368&h5=640&rf=viewer_421)
+![课程选课测试](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCdDHd1d8nh4X/800?w5=1092&h5=640&rf=viewer_421)
 #### 课程查询
 ![课程查询](http://group.store.qq.com/qun/V14GvXzx4aBQZv/V3tw5lZCcTHd1dIwJUg/800?w5=1140&h5=640&rf=viewer_421)
 #### 选课代码分析
